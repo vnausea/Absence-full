@@ -45,3 +45,4 @@ Note any feature labeled [MAIN ONLY] is not available in the lite version (due t
     - Tomahawk
     - Windmill
    
+![bblegends](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends.png?raw=true)
