@@ -2,7 +2,7 @@
 
 https://discord.gg/EPgx6fXDQP
 
-Note any feature labeled [MAIN ONLY] is not available in the lite version (due to a lack of executor capabilities)
+Screenshots are NOT up to date, feature list IS up to date
 
 ## Basketball Legends
 
@@ -13,7 +13,7 @@ Note any feature labeled [MAIN ONLY] is not available in the lite version (due t
 - Defense
   - Automatic guarding
     - Guarding modes (legit, rage)
-    - Target selection (closest target, basketball)
+    - Target selection (closest opponent, closest basketball)
     - Automatic target updating
     - Prediction
   - Ball magnet
@@ -22,21 +22,21 @@ Note any feature labeled [MAIN ONLY] is not available in the lite version (due t
 - Movement
   - Speed changer
     - Possession only toggle
-   
-- Exploits
-  - Anti contact
-  - Fake lag
-  - Unlock abilities (post, eurostep, lob, pump-fake) [MAIN ONLY]
-  - Ignore posts (and screens) [MAIN ONLY]
-  - No steal cooldown [MAIN ONLY]
-  - Prevent ankle breakers [MAIN ONLY]
-  - Movement boost [MAIN ONLY]
+  - Movement boost
     - Shot fade multiplier
     - Handles multiplier
     - Eurostep multiplier
    
-- Inventory
-  - Dunk changer [MAIN ONLY]
+- Exploits
+  - Anti contact
+  - Fake lag
+  - Unlock abilities (post, eurostep, lob, pump-fake)
+  - Ignore posts (and screens)
+  - No steal cooldown
+  - Prevent ankle breakers
+   
+- Miscellaneous
+  - Dunk changer 
     - 360
     - Reverse
     - Under the legs
@@ -44,6 +44,12 @@ Note any feature labeled [MAIN ONLY] is not available in the lite version (due t
     - Double clutch
     - Tomahawk
     - Windmill
+  - Visuals
+    - Remove post-processing
+    - Night mode
+    - Reveal records
+    - Feature indicators
+- Functional config system 
    
 ![bblegends](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends.png?raw=true)
 
@@ -66,41 +72,3 @@ Note any feature labeled [MAIN ONLY] is not available in the lite version (due t
   - Speed changer
  
 ![bbstars3](https://github.com/vnausea/Absence-full/blob/main/screenshots/bbstars3.png?raw=true)
-
-## Strucid
-
-- Aimbot
-  - Disable right mouse
-  - Secondary aim-key
-  - Smoothness
-  - FOV
-  - Team & visibility check
-  - Drawn FOV circle
-  - Silent aimbot
- 
-- Visuals
-  - Customizable colors
-  - Nametag ESP
-  - Box ESP
-  - Healthbar ESP
-
-- Gun mods
-  - No recoil
-  - No spread
-  - Rapid fire
-
-- Game hooks
-  - Remove fall damage
-  - Magic bullet (shoot through any walls)
-  - Bullet trails
-  - Super speed
-  - Night mode
- 
-![strucid](https://github.com/vnausea/Absence-full/blob/main/screenshots/strucid.png?raw=true)
-
-## KAT
-
-- Silent aimbot
-- Customizable ESP
-
-![kat](https://github.com/vnausea/Absence-full/blob/main/screenshots/kat.png?raw=true)
