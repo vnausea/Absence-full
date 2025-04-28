@@ -2,7 +2,7 @@
 
 https://discord.gg/EPgx6fXDQP
 
-Screenshots are NOT up to date, feature list IS up to date
+Last updated: 2025-04-27
 
 ## Basketball Legends
 
@@ -15,6 +15,7 @@ Screenshots are NOT up to date, feature list IS up to date
     - Guarding modes (legit, rage)
     - Target selection (closest opponent, closest basketball)
     - Direction selection (player, hoop)
+    - Max distance
     - Automatic target updating
     - Prediction
   - Ball magnet
@@ -30,11 +31,14 @@ Screenshots are NOT up to date, feature list IS up to date
    
 - Exploits
   - Anti contact
+  - Anti fling
   - Fake lag
   - Unlock abilities (post, eurostep, lob, pump-fake)
-  - Ignore posts (and screens)
-  - No steal cooldown
+  - Ignore posts and screens (partial, full)
+  - Remove steal cooldown
   - Prevent ankle breakers
+  - Disable spinning
+  - Post aimbot
   - Anti-score
    
 - Miscellaneous
@@ -46,31 +50,19 @@ Screenshots are NOT up to date, feature list IS up to date
     - Double clutch
     - Tomahawk
     - Windmill
+  - Other
+    - Rejoin server
+    - Go AFK
+    - Join ranked
   - Visuals
     - Remove post-processing
-    - Night mode
     - Reveal records
     - Feature indicators
 - Functional config system 
    
-![bblegends](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends.png?raw=true)
-
-## Basketball Stars 3
-
-- Shooting
-  - Automatic perfect
-    - Good chance
-  - Reduce moving inaccuracy
- 
-- Defense
-  - Easy steal
-  - Auto steal
-  - Ball magnet
- 
-- Game hooks
-  - Infinite stamina
-
-- Movement
-  - Speed changer
- 
-![bbstars3](https://github.com/vnausea/Absence-full/blob/main/screenshots/bbstars3.png?raw=true)
+![bblegends_shooting](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends_shootingtab.png?raw=true)
+![bblegends_defense](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends_defensetab.png?raw=true)
+![bblegends_movement](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends_movementtab.png?raw=true)
+![bblegends_exploits](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends_exploitstab.png?raw=true)
+![bblegends_misc](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends_misctab.png?raw=true)
+![bblegends_config](https://github.com/vnausea/Absence-full/blob/main/screenshots/bblegends_configtab.png?raw=true)
