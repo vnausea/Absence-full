@@ -14,10 +14,11 @@ Screenshots are NOT up to date, feature list IS up to date
   - Automatic guarding
     - Guarding modes (legit, rage)
     - Target selection (closest opponent, closest basketball)
+    - Direction selection (player, hoop)
     - Automatic target updating
     - Prediction
   - Ball magnet
-  - Easy steal
+  - Easy steal (assisted, perfect)
  
 - Movement
   - Speed changer
@@ -34,6 +35,7 @@ Screenshots are NOT up to date, feature list IS up to date
   - Ignore posts (and screens)
   - No steal cooldown
   - Prevent ankle breakers
+  - Anti-score
    
 - Miscellaneous
   - Dunk changer 
